@@ -1,0 +1,5 @@
+command_id: 740.760.224B3C
+test_cases:
+- expected_values:
+    TRAFIC_DRIVING_TYPE: 2
+  response: 76004624B3C02

@@ -1,0 +1,5 @@
+command_id: 740.760.224B38
+test_cases:
+- expected_values:
+    TRAFIC_LONGITUDINAL_ACCEL_PROGRAMMING: -0.2956
+  response: 76004624B387C

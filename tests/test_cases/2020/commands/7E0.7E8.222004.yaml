@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222004
+test_cases:
+- expected_values:
+    TRAFIC_ENG_TQ: 0
+  response: '7E8056220043200'
+- expected_values:
+    TRAFIC_ENG_TQ: 2.25
+  response: '7E8056220043248'
+- expected_values:
+    TRAFIC_ENG_TQ: 2.625
+  response: '7E8056220043254'
+- expected_values:
+    TRAFIC_ENG_TQ: 3.21875
+  response: '7E8056220043267'
+- expected_values:
+    TRAFIC_ENG_TQ: 3.40625
+  response: 7E805622004326D

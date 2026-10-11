@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222246
+test_cases:
+- expected_values:
+    TRAFIC_IDLE_REG_INT_CORR: -1024
+  response: '7E8056222468000'
+- expected_values:
+    TRAFIC_IDLE_REG_INT_CORR: -1021.8125
+  response: '7E8056222468046'
+- expected_values:
+    TRAFIC_IDLE_REG_INT_CORR: -1021.75
+  response: '7E8056222468048'
+- expected_values:
+    TRAFIC_IDLE_REG_INT_CORR: -1021.71875
+  response: '7E8056222468049'

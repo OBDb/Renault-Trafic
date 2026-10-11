@@ -1,0 +1,8 @@
+command_id: 740.760.224B1A
+test_cases:
+- expected_values:
+    TRAFIC_VEH_STAT: 5
+  response: 76004624B1A05
+- expected_values:
+    TRAFIC_VEH_STAT: 7
+  response: 76004624B1A07

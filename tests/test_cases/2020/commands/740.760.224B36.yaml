@@ -1,0 +1,8 @@
+command_id: 740.760.224B36
+test_cases:
+- expected_values:
+    TRAFIC_STEER_WHL_ANG_PROGRAMMING: 5.4
+  response: 76004624B369A
+- expected_values:
+    TRAFIC_STEER_WHL_ANG_PROGRAMMING: 6.8
+  response: 76004624B36A1

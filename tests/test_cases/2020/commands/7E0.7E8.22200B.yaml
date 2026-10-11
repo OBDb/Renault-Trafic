@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22200B
+test_cases:
+- expected_values:
+    TRAFIC_PEDAL_POTENTIOMETER_1_V: 752
+  response: 7E80562200B02F0

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222057
+test_cases:
+- expected_values:
+    TRAFIC_ALTERNATOR_POWER: 0
+  response: '7E8056220570000'
+- expected_values:
+    TRAFIC_ALTERNATOR_POWER: 660
+  response: '7E8056220570042'
+- expected_values:
+    TRAFIC_ALTERNATOR_POWER: 670
+  response: '7E8056220570043'
+- expected_values:
+    TRAFIC_ALTERNATOR_POWER: 680
+  response: '7E8056220570044'
+- expected_values:
+    TRAFIC_ALTERNATOR_POWER: 770
+  response: 7E805622057004D

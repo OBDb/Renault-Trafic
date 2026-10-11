@@ -1,0 +1,5 @@
+command_id: 740.760.224B0C
+test_cases:
+- expected_values:
+    TRAFIC_YAW_ANG: 0
+  response: 76005624B0C7FFF

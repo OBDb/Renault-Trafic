@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Renault_Trafic"
+
+generations:
+  - name: "First Generation"
+    start_year: 1980
+    end_year: 2001
+    description: "The original Trafic van."
+  - name: "Second Generation (X83)"
+    start_year: 2001
+    end_year: 2014
+    description: "Developed with GM and Nissan (Vivaro, Primastar), with dCi diesel engines."
+  - name: "Third Generation (X82)"
+    start_year: 2014
+    end_year: null
+    description: "Built alongside the Vivaro, Talento and NV300, with 1.6 and 2.0 dCi diesels."

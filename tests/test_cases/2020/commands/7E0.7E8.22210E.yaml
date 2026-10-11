@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22210E
+test_cases:
+- expected_values:
+    TRAFIC_NUM_ROT_ENG: 1048376
+  response: 7E80762210E800FFF38
+- expected_values:
+    TRAFIC_NUM_ROT_ENG: 2054024
+  response: 7E80762210E801F5788

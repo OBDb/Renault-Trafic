@@ -1,0 +1,5 @@
+command_id: 740.760.224B0B
+test_cases:
+- expected_values:
+    TRAFIC_TRANSVERSE_ACCEL: 0.02
+  response: 76004624B0B80

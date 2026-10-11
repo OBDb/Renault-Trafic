@@ -1,0 +1,5 @@
+command_id: 740.760.224B0E
+test_cases:
+- expected_values:
+    TRAFIC_MASTER_CYL_P: 0
+  response: 76004624B0E00

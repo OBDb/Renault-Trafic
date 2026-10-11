@@ -1,0 +1,5 @@
+command_id: 740.760.224B01
+test_cases:
+- expected_values:
+    TRAFIC_SPD_FRONT_R_H_WHL: 0
+  response: 76005624B010000

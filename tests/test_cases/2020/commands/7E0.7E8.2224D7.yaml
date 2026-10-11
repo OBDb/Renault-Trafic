@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2224D7
+test_cases:
+- expected_values:
+    TRAFIC_MANIFOLD_P_LIN: 0
+  response: 7E8056224D70000

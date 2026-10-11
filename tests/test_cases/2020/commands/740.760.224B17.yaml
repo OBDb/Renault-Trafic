@@ -1,0 +1,11 @@
+command_id: 740.760.224B17
+test_cases:
+- expected_values:
+    TRAFIC_HYDRAULIC_UNIT_T: 14
+  response: 76004624B170E
+- expected_values:
+    TRAFIC_HYDRAULIC_UNIT_T: 21
+  response: 76004624B1715
+- expected_values:
+    TRAFIC_HYDRAULIC_UNIT_T: 22
+  response: 76004624B1716

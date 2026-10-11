@@ -1,0 +1,5 @@
+command_id: 740.760.224B2E
+test_cases:
+- expected_values:
+    TRAFIC_TRAILER_STABILITY: 0
+  response: 76004624B2E00

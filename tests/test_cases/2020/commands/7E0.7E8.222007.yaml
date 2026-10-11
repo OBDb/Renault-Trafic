@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222007
+test_cases:
+- expected_values:
+    TRAFIC_EST_OIL_T: 15.4
+  response: 7E8056220070B44
+- expected_values:
+    TRAFIC_EST_OIL_T: 36.5
+  response: 7E8056220070C17
+- expected_values:
+    TRAFIC_EST_OIL_T: 37
+  response: 7E8056220070C1C
+- expected_values:
+    TRAFIC_EST_OIL_T: 37.4
+  response: 7E8056220070C20
+- expected_values:
+    TRAFIC_EST_OIL_T: 37.8
+  response: 7E8056220070C24
+- expected_values:
+    TRAFIC_EST_OIL_T: 38.4
+  response: 7E8056220070C2A

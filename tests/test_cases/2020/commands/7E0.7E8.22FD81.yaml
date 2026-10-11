@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22FD81
+test_cases:
+- expected_values:
+    TRAFIC_MANIFOLD_P_SNS_V: 0.13086
+  response: 7E80562FD810218
+- expected_values:
+    TRAFIC_MANIFOLD_P_SNS_V: 0.1311
+  response: 7E80562FD810219
+- expected_values:
+    TRAFIC_MANIFOLD_P_SNS_V: 2.19946
+  response: 7E80562FD812331
+- expected_values:
+    TRAFIC_MANIFOLD_P_SNS_V: 2.20605
+  response: 7E80562FD81234C
+- expected_values:
+    TRAFIC_MANIFOLD_P_SNS_V: 2.20825
+  response: 7E80562FD812355

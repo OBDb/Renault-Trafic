@@ -1,0 +1,8 @@
+command_id: 743.763.220207
+test_cases:
+- expected_values:
+    TRAFIC_ODO_KM: 84148
+  response: 763066202070148B4
+- expected_values:
+    TRAFIC_ODO_KM: 85710
+  response: 76306620207014ECE

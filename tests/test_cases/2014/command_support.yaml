@@ -1,0 +1,4 @@
+model_year: 2014
+unsupported_commands_by_ecu:
+  "743":
+  - 743.763.220207:TRAFIC_ODO_KM

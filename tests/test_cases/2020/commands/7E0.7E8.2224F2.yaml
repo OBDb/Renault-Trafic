@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2224F2
+test_cases:
+- expected_values:
+    TRAFIC_MEAS_AIR_FLOW: 0
+  response: 7E8056224F20000
+- expected_values:
+    TRAFIC_MEAS_AIR_FLOW: 42.9
+  response: 7E8056224F201AD

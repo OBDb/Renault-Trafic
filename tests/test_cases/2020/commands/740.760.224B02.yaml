@@ -1,0 +1,5 @@
+command_id: 740.760.224B02
+test_cases:
+- expected_values:
+    TRAFIC_SPD_REAR_L_H_WHL: 0
+  response: 76005624B020000

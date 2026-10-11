@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22FD8B|din=C0
+test_cases:
+- expected_values:
+    TRAFIC_ECT_SENS_V: 2.1846
+  response: 7E80562FD8B2AAB
+- expected_values:
+    TRAFIC_ECT_SENS_V: 2.2286
+  response: 7E80562FD8B2B87
+- expected_values:
+    TRAFIC_ECT_SENS_V: 2.2726
+  response: 7E80562FD8B2C63
+- expected_values:
+    TRAFIC_ECT_SENS_V: 2.297
+  response: 7E80562FD8B2CDD
+- expected_values:
+    TRAFIC_ECT_SENS_V: 3.4848
+  response: 7E80562FD8B4410
+- expected_values:
+    TRAFIC_ECT_SENS_V: 3.4896
+  response: 7E80562FD8B4428
