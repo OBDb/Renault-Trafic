@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222401
+test_cases:
+- expected_values:
+    TRAFIC_BOOST_P: 1020
+  response: 7E80562240103FC
+- expected_values:
+    TRAFIC_BOOST_P: 1028
+  response: '7E8056224010404'
+- expected_values:
+    TRAFIC_BOOST_P: 1029
+  response: '7E8056224010405'
+- expected_values:
+    TRAFIC_BOOST_P: 1030
+  response: '7E8056224010406'
+- expected_values:
+    TRAFIC_BOOST_P: 1031
+  response: '7E8056224010407'

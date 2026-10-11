@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222005
+test_cases:
+- expected_values:
+    TRAFIC_BAT_V_12_V: 12.56
+  response: 7E80562200504E8
+- expected_values:
+    TRAFIC_BAT_V_12_V: 15.1
+  response: 7E80562200505E6
+- expected_values:
+    TRAFIC_BAT_V_12_V: 15.12
+  response: 7E80562200505E8
+- expected_values:
+    TRAFIC_BAT_V_12_V: 15.18
+  response: 7E80562200505EE

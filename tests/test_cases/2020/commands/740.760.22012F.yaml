@@ -1,0 +1,14 @@
+command_id: 740.760.22012F
+test_cases:
+- expected_values:
+    TRAFIC_COMPUTER_SUP_V: 12.3
+  response: 7600462012F7B
+- expected_values:
+    TRAFIC_COMPUTER_SUP_V: 14.8
+  response: 7600462012F94
+- expected_values:
+    TRAFIC_COMPUTER_SUP_V: 14.9
+  response: 7600462012F95
+- expected_values:
+    TRAFIC_COMPUTER_SUP_V: 15
+  response: 7600462012F96

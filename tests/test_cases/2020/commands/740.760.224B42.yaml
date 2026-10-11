@@ -1,0 +1,14 @@
+command_id: 740.760.224B42
+test_cases:
+- expected_values:
+    TRAFIC_STEER_WHL_SPD: -2.5
+  response: 76005624B427FE6
+- expected_values:
+    TRAFIC_STEER_WHL_SPD: -0.8
+  response: 76005624B427FF7
+- expected_values:
+    TRAFIC_STEER_WHL_SPD: 0
+  response: 76005624B427FFF
+- expected_values:
+    TRAFIC_STEER_WHL_SPD: 0.7
+  response: 76005624B428006

@@ -1,0 +1,8 @@
+command_id: 740.760.224B39
+test_cases:
+- expected_values:
+    TRAFIC_P_SENS_PROGRAMMING: -0.4
+  response: 76004624B397D
+- expected_values:
+    TRAFIC_P_SENS_PROGRAMMING: -0.2
+  response: 76004624B397E

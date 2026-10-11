@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222001
+test_cases:
+- expected_values:
+    TRAFIC_WATER_T: 15.8
+  response: 7E8056220010B48
+- expected_values:
+    TRAFIC_WATER_T: 15.9
+  response: 7E8056220010B49
+- expected_values:
+    TRAFIC_WATER_T: 38.9
+  response: 7E8056220010C2F
+- expected_values:
+    TRAFIC_WATER_T: 39.7
+  response: 7E8056220010C37
+- expected_values:
+    TRAFIC_WATER_T: 40.5
+  response: 7E8056220010C3F
+- expected_values:
+    TRAFIC_WATER_T: 41.5
+  response: 7E8056220010C49

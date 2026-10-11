@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22200D
+test_cases:
+- expected_values:
+    TRAFIC_REFRIGERANT_FLUID_V: 0.64
+  response: 7E80562200D0040
+- expected_values:
+    TRAFIC_REFRIGERANT_FLUID_V: 0.81
+  response: 7E80562200D0051
+- expected_values:
+    TRAFIC_REFRIGERANT_FLUID_V: 0.82
+  response: 7E80562200D0052

@@ -1,0 +1,8 @@
+command_id: 740.760.224B06
+test_cases:
+- expected_values:
+    TRAFIC_COMPUTER_CURRENT: 8414817
+  response: 76007624B0600806661
+- expected_values:
+    TRAFIC_COMPUTER_CURRENT: 8571079
+  response: 76007624B060082C8C7

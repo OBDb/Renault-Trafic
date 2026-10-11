@@ -1,0 +1,17 @@
+command_id: 740.760.220100
+test_cases:
+- expected_values:
+    TRAFIC_STEER_WHL_ANG: -7.6
+  response: 760056201007FB3
+- expected_values:
+    TRAFIC_STEER_WHL_ANG: -7.5
+  response: 760056201007FB4
+- expected_values:
+    TRAFIC_STEER_WHL_ANG: -6.4
+  response: 760056201007FBF
+- expected_values:
+    TRAFIC_STEER_WHL_ANG: 52.9
+  response: '760056201008210'
+- expected_values:
+    TRAFIC_STEER_WHL_ANG: 57.6
+  response: 76005620100823F

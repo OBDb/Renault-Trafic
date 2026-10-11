@@ -1,0 +1,5 @@
+command_id: 740.760.224B24
+test_cases:
+- expected_values:
+    TRAFIC_SPEEDO_INDEX: 2079
+  response: 76005624B24081F

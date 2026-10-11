@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F423
+test_cases:
+- expected_values:
+    TRAFIC_LPG_P: 6
+  response: 7E80562F423003C
+- expected_values:
+    TRAFIC_LPG_P: 9
+  response: 7E80562F423005A
+- expected_values:
+    TRAFIC_LPG_P: 358
+  response: 7E80562F4230DFC
+- expected_values:
+    TRAFIC_LPG_P: 360
+  response: 7E80562F4230E10
+- expected_values:
+    TRAFIC_LPG_P: 365
+  response: 7E80562F4230E42

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222099
+test_cases:
+- expected_values:
+    TRAFIC_ALTERNATOR_LOAD: 14.90196
+  response: '7E80462209926'
+- expected_values:
+    TRAFIC_ALTERNATOR_LOAD: 28.62745
+  response: '7E80462209949'
+- expected_values:
+    TRAFIC_ALTERNATOR_LOAD: 29.41176
+  response: 7E8046220994B
+- expected_values:
+    TRAFIC_ALTERNATOR_LOAD: 30.98039
+  response: 7E8046220994F
