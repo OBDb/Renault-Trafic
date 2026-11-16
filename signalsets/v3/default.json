@@ -227,7 +227,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "din": "C0", "dbg": true, "cmd": {"21": "D1"}, "freq": 1,
   "signals": [
-    {"id": "TRAFIC_CRUISE_CTRL_SETTING_7E0", "path": "Engine", "fmt": {"bix": 136, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control setting"}
+    {"id": "TRAFIC_CRUISE_CTRL_SETTING_7E0", "path": "Engine", "fmt": {"bix": 136, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control setting", "suggestedMetric": "cruiseSetSpeed"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2001"}, "freq": 5, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
@@ -345,7 +345,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "2035"}, "freq": 1,
   "signals": [
-    {"id": "TRAFIC_CRUISE_CTRL_SETTING", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control setting"}
+    {"id": "TRAFIC_CRUISE_CTRL_SETTING", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control setting", "suggestedMetric": "cruiseSetSpeed"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2036"}, "freq": 0.25, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
